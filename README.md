@@ -1,0 +1,2 @@
+# DestinyArmorOptimizer
+Armor Optimization App for Destiny 2 Welcome to the github page for the D2 Armor Optimizer. Here you can file bug reports, check out the code, or message me if you have questions or comments. The app itself is designed to help you choose what armor to wear in destiny 2, based on your specific stat loadout hopes. You tell the app what stats you want, and what exotic you are rocking, and it will tell you if you have armor that fit your wants (and, if you do, what armor does so). That's pretty much it!
